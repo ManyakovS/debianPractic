@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>Успеваемость</title>
+<link rel="stylesheet" href="style1.css"/>
+</head>
+<body>
+<h2>Маняков Степан Дмитриевич №20Т124</h2>
+
+<table style="height: 256px; width: 460px;">
+<tr>
+<td style="width: 170px; text-align: center;">Физическая культура</td>
+<td style="width: 170px; text-align: center;">Захаров А.В.</td>
+<td style="width: 40px; text-align: center;">2022/2023</td>
+<td style="width: 70px; text-align: center;">Зачет</td>
+</tr>
+
+<tr>
+<td style="width: 170px; text-align: center;">Безопасность жизнидеятельности</td>
+<td style="width: 170px; text-align: center;">Пилин М.О.</td>
+<td style="width: 40px; text-align: center;">2022/2023</td>
+<td style="width: 70px; text-align: center;">5</td>
+</tr>
+
+<tr>
+<td style="width: 170px; text-align: center;">Правовое обеспечение в профессиональной деятельности</td>
+<td style="width: 170px; text-align: center;">Кузнецова Е.В.</td>
+<td style="width: 40px; text-align: center;">2022/2023</td>
+<td style="width: 70px; text-align: center;">5</td>
+</tr>
+
+
+<tr>
+<td style="width: 170px; text-align: center;">Инструментальные средства разработки</td>
+<td style="width: 170px; text-align: center;">Матисов А.В</td>
+<td style="width: 40px; text-align: center;">2022/2023</td>
+<td style="width: 70px; text-align: center;">5</td>
+</tr>
+
+<tr>
+<td style="width: 170px; text-align: center;">Моделирование и анализ ПО</td>
+<td style="width: 170px; text-align: center;">Ерошевич К.В</td>
+<td style="width: 40px; text-align: center;">2022/2023</td>
+<td style="width: 70px; text-align: center;">5</td>
+</tr>
+
+<tr>
+<td style="width: 170px; text-align: center;">Интелектуальные системы и технологии</td>
+<td style="width: 170px; text-align: center;">Кулиничев К.А</td>
+<td style="width: 40px; text-align: center;">2022/2023</td>
+<td style="width: 70px; text-align: center;">5</td>
+</tr>
+
+</table>
+</body>
+</html>
